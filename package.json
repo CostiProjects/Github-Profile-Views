@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.18.0",
+    "puppeteer": "^25.1.0"
+  },
+  "name": "github-profil-viewer",
+  "version": "1.0.0",
+  "main": "f5-botu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
