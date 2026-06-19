@@ -1,2 +1,6 @@
 # Github-Profile-Views
-🔨 Created by Costi
+
+* 🔨 Created by Costi
+
+
+# PROFILINIZIN GORUNTULENME SAYISINI ARTTIRIR. ARKADA AÇIK BIRAKABILIRSINIZ!
